@@ -1,4 +1,4 @@
-Dear Test1,
+Dear [NAME],
 
 Happy birthday!
 
